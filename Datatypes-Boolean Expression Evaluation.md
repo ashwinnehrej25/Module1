@@ -18,4 +18,6 @@ To write a Python program that evaluates and prints the results of boolean and a
 Add Code here
 
 ## Output
+<img width="1137" height="204" alt="568205143-a09ff8a9-fa69-4ab2-9509-4a84e8065436" src="https://github.com/user-attachments/assets/4ad5faab-2fa9-40e1-a012-f241161e71e6" />
+
 ## Result
